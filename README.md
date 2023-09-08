@@ -13,3 +13,6 @@ The ViewModel is the link between the View and the Model. It implements and expo
 
 ## User_Interface
 <img width="692" alt="Screenshot 2023-09-08 181050" src="https://github.com/mava123-0/Calculator_MVVM_Architecture/assets/83857943/324e28b0-533e-465e-9443-3fde469a363a">
+
+## Reference
+https://www.youtube.com/watch?v=whAVI1vTOko&t=1046s
